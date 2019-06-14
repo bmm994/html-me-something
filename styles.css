@@ -1,0 +1,23 @@
+body {
+    background-image: url("projectimages/htb.jpg");
+}
+
+h1 {
+    text-align:center;
+    color: blue;
+    font-family: Veranda;
+}
+
+h3 {
+    color: green;
+    font-family: Arial;
+}
+
+h4 {
+    color: black;
+    font-family: teletype;
+}
+
+p {
+    color:black;
+}
